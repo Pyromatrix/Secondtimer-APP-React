@@ -1,0 +1,87 @@
+html, body, #root, #root>div {
+    height: 100%;
+    margin: 0;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    color: white;
+    
+  }
+  
+  h3 {
+    text-shadow: 0px 0px 8px black;
+  }
+
+.main-div {
+    background-color: rgba(0,0,0,0.3);
+
+    /* Tää paketti keskittää nätisti koko kellon näytölle, vertikaalisesti ja hrisontaalisesti */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    flex-direction: column;
+
+}
+ul {
+    padding: 0; /* Poistaa tallennettujen aikojen paddingin */
+    list-style-type: none; /* Poistaa tallennettujen aikojen listapallon */
+  }
+
+.start-stop-reset-nappi {
+    margin: 15px !important;
+    
+}
+
+#title-value {
+    margin-bottom: 10px;
+    color: black;
+    width: 204.717px;
+    font-size: medium;
+}
+
+.save-reset-napit-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.save-reset-nappi {
+    width: 204.717px !important;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.tulostaulu {
+    color: greenyellow;
+    width: 204.717px;
+    min-height: 200px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    
+}
+
+.tulostaulu-main {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    flex-direction: column;
+}
+
+.stopwatch__display {
+    width: 204.717px;
+    height: auto;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    color: greenyellow;
+}
+
+.input-field {
+    text-align: center !important;
+}
