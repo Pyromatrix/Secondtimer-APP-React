@@ -1,6 +1,6 @@
 # Secondtimer with tests
 
-## Online version: 
+## Online version: https://secondtimer.netlify.app/
 
 ### `npm start`
 
