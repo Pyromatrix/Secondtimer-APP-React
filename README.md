@@ -1,6 +1,6 @@
-## Secondtimer with tests
+# Secondtimer with tests
 
-# Online version: 
+## Online version: 
 
 ### `npm start`
 
