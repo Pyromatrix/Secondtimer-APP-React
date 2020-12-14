@@ -1,4 +1,5 @@
 # Secondtimer with tests
+No any focusing for mobile. Just developing react apps for practicing React itself.
 
 ## Online version: https://secondtimer.netlify.app/
 
