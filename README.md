@@ -1,5 +1,5 @@
 # Secondtimer with tests
-No any focusing for mobile. Just developing react apps for practicing React itself.
+No any focusing for mobile responsiveness. Just developing React apps for practicing.
 
 ## Online version: https://secondtimer.netlify.app/
 
