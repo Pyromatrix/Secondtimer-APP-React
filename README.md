@@ -11,3 +11,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `npm test`
 
 Launches the test runner.\
+
+![Menu image](https://raw.githubusercontent.com/Pyromatrix/Secondtimer-APP-React/master/src/images/sample_photo.jpg?raw=true "Optional title")
